@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20There,%20I'm%20Ida%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer%20%7C%20BTech%20'28&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=J.%20Ida%20Jemi%20&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer%20%7C%20BTech%20'28&descAlignY=58&descSize=18" width="100%"/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=150&lines=Building+full-stack+products+%F0%9F%9A%80;Currently+leveling+up+in+AI%2FML+%F0%9F%A4%96;BTech+3rd+Year+%7C+Always+shipping+%26+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=150&lines=Building+full-stack+products+;Currently+leveling+up+in+AI%2FML+;BTech+3rd+Year+%7C+Always+shipping+%26+learning" alt="Typing SVG" />
 </a>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=ida-jemi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -17,7 +17,7 @@ role: Full-Stack Developer | Aspiring AI/ML Engineer
 education: B.Tech, 3rd Year - still learning, still exploring
 currently_building: AI-powered tools (see RepoMind 👇)
 currently_learning: Machine Learning & Deep Learning fundamentals
-fun_fact: I turn "it doesn't work" into "it works" — eventually 😄
+fun_fact: I turn "it doesn't work" into "it works" — eventually
 ```
 
 - 🔭 I'm currently building full-stack projects and diving deeper into **AI/ML**
@@ -29,7 +29,7 @@ fun_fact: I turn "it doesn't work" into "it works" — eventually 😄
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -57,7 +57,7 @@ fun_fact: I turn "it doesn't work" into "it works" — eventually 😄
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -78,7 +78,7 @@ fun_fact: I turn "it doesn't work" into "it works" — eventually 😄
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -91,7 +91,7 @@ fun_fact: I turn "it doesn't work" into "it works" — eventually 😄
 
 <br/>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ida-jemi&theme=tokyonight&no-frame=true&row=1&column=7" />
@@ -99,15 +99,7 @@ fun_fact: I turn "it doesn't work" into "it works" — eventually 😄
 
 <br/>
 
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ida-jemi&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/ida-jemi/ida-jemi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -115,7 +107,7 @@ fun_fact: I turn "it doesn't work" into "it works" — eventually 😄
 
 <br/>
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
