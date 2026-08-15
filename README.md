@@ -1,18 +1,12 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20There,%20I'm%20Ida%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer%20%7C%20BTech%20'27&descAlignY=58&descSize=18" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20There,%20I'm%20Ida%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer%20%7C%20BTech%20'28&descAlignY=58&descSize=18" width="100%"/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+full-stack+products+%F0%9F%9A%80;Currently+leveling+up+in+AI%2FML+%F0%9F%A4%96;3rd+Year+BTech+%7C+Always+shipping+%26+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=150&lines=Building+full-stack+products+%F0%9F%9A%80;Currently+leveling+up+in+AI%2FML+%F0%9F%A4%96;BTech+3rd+Year+%7C+Always+shipping+%26+learning" alt="Typing SVG" />
 </a>
-
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=ida-jemi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/ida-jemi?label=Followers&style=flat&color=0e75b6" alt="followers"/>
-
 </div>
-
 <br/>
 
 ## 👩‍💻 About Me
@@ -20,7 +14,7 @@
 ```yaml
 name: J. Ida Jemi
 role: Full-Stack Developer | Aspiring AI/ML Engineer
-education: B.Tech, 3rd Year — still learning, still exploring
+education: B.Tech, 3rd Year - still learning, still exploring
 currently_building: AI-powered tools (see RepoMind 👇)
 currently_learning: Machine Learning & Deep Learning fundamentals
 fun_fact: I turn "it doesn't work" into "it works" — eventually 😄
