@@ -9,23 +9,24 @@
 </div>
 <br/>
 
-## 👩‍💻 About Me
+## About Me
 
 ```yaml
 name: J. Ida Jemi
 role: Full-Stack Developer | Aspiring AI/ML Engineer
 education: B.Tech, 3rd Year - still learning, still exploring
+interests: [Full-Stack Development, AI/ML, Data Analytics, Cybersecurity]
 currently_building: AI-powered tools (see RepoMind 👇)
 currently_learning: Machine Learning & Deep Learning fundamentals
 fun_fact: I turn "it doesn't work" into "it works" — eventually
 ```
 
-- 🔭 I'm currently building full-stack projects and diving deeper into **AI/ML**
-- 🌱 Learning: neural networks, LLMs, and applied ML alongside my full-stack stack
-- ⚡ Recently built **repomind**, **Job-market-Analyzer** and **Expense-Tracker** — exploring data-driven, analytics-focused apps
-- 🎯 Goal: become the person who builds full-stack apps *with* intelligent features baked in
-- 💬 Ask me about: React, Node.js, or how to survive semester deadlines
-- 📫 Reach me: https://www.linkedin.com/in/j-ida-jemi-b2a930323/
+- <img width="16" src="https://api.iconify.design/lucide:telescope.svg?color=%2300C6FF"/> Currently building full-stack projects and diving deeper into **AI/ML**
+- <img width="16" src="https://api.iconify.design/lucide:sprout.svg?color=%2300C6FF"/> Learning: neural networks, LLMs, and applied ML alongside my full-stack stack
+- <img width="16" src="https://api.iconify.design/lucide:zap.svg?color=%2300C6FF"/> Recently built **repomind**, **Job-market-Analyzer** and **Expense-Tracker** - exploring data-driven, analytics-focused apps
+- <img width="16" src="https://api.iconify.design/lucide:target.svg?color=%2300C6FF"/> Goal: become the person who builds full-stack apps *with* intelligent features baked in
+- <img width="16" src="https://api.iconify.design/lucide:message-circle.svg?color=%2300C6FF"/> Ask me about: React, Node.js, or how to survive semester deadlines
+- <img width="16" src="https://api.iconify.design/lucide:mail.svg?color=%2300C6FF"/> Reach me: https://www.linkedin.com/in/j-ida-jemi-b2a930323/
 
 <br/>
 
@@ -78,25 +79,20 @@ fun_fact: I turn "it doesn't work" into "it works" — eventually
 
 <br/>
 
-## GitHub Stats
-
+## Certifications
+ 
 <div align="center">
+<img width="4800" height="2960" alt="5-Day AI Agents Intensive Course with Google" src="https://github.com/user-attachments/assets/77e80ee5-3d8f-4fd0-a889-63e68822fd25" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ida-jemi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.demolab.com?user=ida-jemi&theme=tokyonight&hide_border=true" width="49%"/>
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ida-jemi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%"/>
+<img width="1034" height="803" alt="image" src="https://github.com/user-attachments/assets/25d8328d-2dbc-4333-91c2-c0298c9a3096" />
+
+---
+
+<img width="972" height="750" alt="image" src="https://github.com/user-attachments/assets/cbf65ac8-9bdc-4ab5-8b51-13b8b75389a7" />
 
 </div>
-
-<br/>
-
-## GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ida-jemi&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
 <br/>
 
 ## Contribution Snake
